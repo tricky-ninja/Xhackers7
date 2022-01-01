@@ -4,8 +4,8 @@
 I’m Sreyas
 
 - 🔭 I’m a mern stack dev
-- 🌱 I’m currently learning about os development
-- 💞️ I’m looking to collaborate on Node.js and React projects 👍
-- 💬 Ask me about React, Node.js and Android development
+- 🌱 I’m currently learning 3d graphics and vector math
+- 💞️ I’m looking to collaborate on Node.js, React, ai, ml, data science and openGL projects 👍
+- 💬 Ask me about React, Node.js, OS development, computer graphics and data science
 - 📫 How to reach me: Discord - TrickyNinja#7479
 - ⚡ Fun fact: People tend to read sentences starting with 'fun fact' 
