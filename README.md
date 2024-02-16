@@ -1,10 +1,43 @@
-### Hi there 👋
 
 
-I’m Sreyas
+<div align="center">
+  <img  src="https://img.freepik.com/premium-vector/hacker-operating-laptop-icon-hacker-laptop-hacker-technology-icon-isolated_138676-495.jpg" width="400" height="400"/>
+</div>
 
-- 🔭 I’m a really curious individual who likes to learn and explore many things
-- 🌱 I’m currently learning 3d graphics and vector math
-- 💞️ I’m looking to collaborate on Node.js, React, Nextjs, sfml and openGL projects 👍
-- 💬 Ask me about React, Node.js, c++, python, sfml, java, p5 and processing
-- 📫 How to reach me: Discord - TrickyNinja#7479 
+
+### :wave: Hey there, I'm Sreyas!
+
+I'm a CTF player and reverse engineer at TeamBi0s, specializing in low-level development such as OS and game system development. Occasionally, I dabble in web development as well. I'm passionate about cybersecurity and actively contribute to Bi0s. Currently, I'm pursuing a B.Tech in AI and Data Science at Amrita University.
+
+---
+
+### :hammer_and_wrench: Skills:
+
+- :computer: CTF player and Reverse Engineering
+- :gear: Low-Level systems Development (OS and Game Systems)
+- :lock: Cybersecurity
+- :globe_with_meridians: Web Development
+- :brain: AI and Data Science
+
+---
+
+### :mailbox: How to reach me:
+
+[![Discord Badge](https://img.shields.io/badge/-tricky_ninja-blue?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/tricky_ninja)
+
+---
+
+### :fire: GitHub Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xhackers7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Xhackers7&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
+### :writing_hand: Latest Blog Posts:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
