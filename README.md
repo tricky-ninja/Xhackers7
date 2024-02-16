@@ -33,11 +33,3 @@ I'm a CTF player and reverse engineer at TeamBi0s, specializing in low-level dev
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Xhackers7&theme=dark&background=000000)](https://git.io/streak-stats)
 
----
-
-### :writing_hand: Latest Blog Posts:
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
